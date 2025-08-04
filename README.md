@@ -62,3 +62,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # joblaravelweb
 # joblaravelweb
 # Laravel Job Board Project
+# SSH Test - Laravel Job Board
